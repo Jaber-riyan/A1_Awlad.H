@@ -85,7 +85,7 @@ nav button {
 }
 .hero-section-content p {
   color: rgb(13, 19, 33);
-  font-size: 16px;
+  font-size: 20px;
   font-weight: 400;
   margin-bottom: 32px;
 }
@@ -237,12 +237,13 @@ nav button {
   font-size: 32px;
   font-weight: 800;
   line-height: 37px;
-  margin-bottom: 24px;
+  margin-bottom: 10px;
 }
 .current-target-text p {
   color: rgb(13, 19, 33);
   font-size: 16px;
   font-weight: 400;
+  margin-bottom: 20px;
 }
 .skill-1 {
   width: 364px;
@@ -272,7 +273,7 @@ nav button {
   font-size: 16px;
   font-weight: 400;
   margin-top: 8px;
-  margin-bottom: 24px;
+  margin-bottom: 15px;
 }
 .skill-1 h1,
 .skill-2 h1,
@@ -280,7 +281,7 @@ nav button {
   color: rgb(13, 19, 33);
   font-size: 24px;
   font-weight: 800;
-  margin-top: 24px;
+  margin-top: 15px;
 }
 .current-target-skills {
   display: flex;
@@ -307,7 +308,7 @@ nav button {
   color: rgb(13, 19, 33);
   font-size: 32px;
   font-weight: 800;
-  margin-bottom: 24px;
+  margin-bottom: 10px;
 }
 .next-target-text p {
   color: rgb(13, 19, 33);
@@ -331,6 +332,18 @@ nav button {
   border-radius: 16px;
   background: rgb(255, 255, 255);
   padding: 40px 40px;
+}
+.next-target-skill h1 {
+  color: rgb(13, 19, 33);
+  font-size: 24px;
+  font-weight: 800;
+  margin-bottom: 10px;
+}
+.next-target-skill p {
+  color: rgb(13, 19, 33);
+  font-size: 16px;
+  font-weight: 400;
+  margin-bottom: 15px;
 }
 /* next target skills end */
 /* next target section end */
@@ -389,14 +402,6 @@ nav button {
 /* support section end */
 
 /* main section styles end */
-
-
-
-
-
-
-
-
 
 /* footer section styles  */
 footer {
